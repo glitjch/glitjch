@@ -1,3 +1,5 @@
+![banner](https://github.com/glitjch/glitjch/blob/main/docs/banner.png?raw=true)
+
 ### Hi there 👋
 
 <!--
@@ -27,4 +29,11 @@
   He/Him/That-one
   
 - ⚡ Fun fact: ...
-  I have occasional 2-layer dreams. 
+  I have occasional 2-layer dreams.\
+  \
+  \
+  Let's **Connect**:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![LinkedIn](https://github.com/glitjch/glitjch/blob/main/docs/linkedin.png?raw=true)](https://www.linkedin.com/in/tj-phan/) 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Twitter](https://github.com/glitjch/glitjch/blob/main/docs/twitter.png?raw=true)](https://twitter.com/hellotjphan)
