@@ -1,4 +1,4 @@
-![banner](https://github.com/glitjch/glitjch/blob/main/docs/banner.png?raw=true)
+<!-- ![banner](https://github.com/glitjch/glitjch/blob/main/docs/banner.png?raw=true) -->
 
 ### Hi there 👋
 
