@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on ...
-  Building a React app to help my game friends print their cards out because there's NOT enough of the same card to   share.
+  Increasing my skills with ReactJS and Figma prototyping.
   
 - 🌱 I’m currently learning ...
   Typescript, and potentially Figma because colors are nice.
@@ -23,7 +23,7 @@
   Cooking, Italy, Health, Consumer Psychology, keyboard shortcuts, brainstorming, your life questions, code!
   
 - 📫 How to reach me: ...
-  LinkedIn or Twitter are nice. See Profile!
+  LinkedIn or Twitter, or whatever means floats your boat.
   
 - 😄 Pronouns: ...
   He/Him/That-one
