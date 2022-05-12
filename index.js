@@ -6,13 +6,14 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 // Dynamic info in DATA
 let DATA = {
   name: 'TJ Phan',
-  date: new Date().toLocaleDateString('en-GB', {
+  date: new Date().toLocaleDateString('en-US', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
-    hour: 'numeric',
-    minute: 'numeric',
-    timeZoneName: 'short',
+    year: 'numeric',
+    // hour: 'numeric',
+    // minute: 'numeric',
+    // timeZoneName: 'short',
     timeZone: 'America/Vancouver',
   }),
 };

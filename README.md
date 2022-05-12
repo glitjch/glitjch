@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm TJ Phan !</h1>
 <h3 align="center">A passionate frontend developer from Coquitlam, BC, Canada</h3>
-<h4 align="center">Today is Thursday, 12 May, 11:44 GMT-7.</h4>
+<h4 align="center">Where I am, today is Thursday, May 12, 2022.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glitjch&label=Profile%20views&color=0e75b6&style=flat" alt="glitjch" /> </p>
 
