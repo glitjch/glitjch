@@ -40,3 +40,4 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   [![Twitter](https://github.com/glitjch/glitjch/blob/main/docs/twitter.png?raw=true)](https://twitter.com/hellotjphan)
   
+  <p>Currently, the weather is: <b> 12°C, <i>clear sky</i></b></br>Today, the sun rises at <b>04:21</b> and sets at <b>21:06</b>.</p>
