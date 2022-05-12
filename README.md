@@ -21,10 +21,6 @@
 
 <h1 align="center">Hi 👋, I'm TJ Phan !</h1>
 <h3 align="center">A passionate frontend developer from Coquitlam, BC, Canada</h3>
-<h4 align="center">Where I am, today is Thursday, May 12, 2022.</h4>
-<p>Currently, the weather is: <b> 9°C, <i>moderate rain</i></b></br>Sun rises at <b>05:31 AM</b> and sets at <b>08:43 PM</b>.</p>
-<p>Weather updates hourly!</p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glitjch&label=Profile%20views&color=0e75b6&style=flat" alt="glitjch" /> </p>
 
@@ -62,3 +58,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   [![Twitter](https://github.com/glitjch/glitjch/blob/main/docs/twitter.png?raw=true)](https://twitter.com/hellotjphan)
   
+<h4 align="center">Here, today is Thursday, May 12, 2022.</h4>
+<p>Currently, the weather is: <b> 9°C, <i>moderate rain</i></b></br>Sun rises at <b>05:31 AM</b> and sets at <b>08:43 PM</b>.</p>
+<p>Weather updates hourly!</p>
