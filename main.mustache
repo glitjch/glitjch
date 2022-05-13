@@ -68,7 +68,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Paw-Five</h3>
       <br/>
-      <a target="_blank" href="#">
+      <a target="_blank" href="https://github.com/Matt-Chisholm/Paw-Five">
           <img src="images/pawfive.gif" width="100%" alt="Dog Training App"/>
       </a>
       <br/>
@@ -78,7 +78,7 @@
          <img src="https://img.shields.io/static/v1?label=|&message=Code&color=23555f&style=plastic&logo=github&logo-color=white"/>
        </a>  
        <a href="https://github.com/Matt-Chisholm/Paw-Five" target="_blank">
-         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=heroku&logo-color=white"/>
+         <img src="https://img.shields.io/static/v1?label=|&message=Demo&color=cdf998&style=plastic&logo=heroku&logo-color=white"/>
        </a>
       </p>
 <!--   Summary    -->
