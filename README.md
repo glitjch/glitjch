@@ -67,11 +67,9 @@
     <td width="50%" valign="top">
       <h3 align="center">Paw-Five</h3>
       <br/>
-      <p align="center">
        <a target="_blank" href="#">
-          <img src="images/pawfive.gif" width="187" alt="Dog Training App"/>
+          <img src="images/pawfive.gif" width="100%" alt="Dog Training App"/>
       </a>
-     </p>
       <br/>
 <!--    buttons     -->
     <p align="center">
