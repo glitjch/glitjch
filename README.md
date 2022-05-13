@@ -25,7 +25,7 @@
 
 <h1 align="center">Hi 👋, I'm TJ!</h1>
 <h3 align="center">A passionate fullstack developer from Coquitlam, BC, Canada</h3>
-<h3 align="center">Improving lives and communities through thoughtful technology is my motivation. If we share the same philosophy, let's connect!</h3>
+<h4 align="left">Improving lives and communities through thoughtful technology is my motivation. If we share the same philosophy, let's connect!</h4>
 
 
 - 🔭 I’m currently working on [My Gatsby Portfolio](https://gatsbyportfoliomain14692.gatsbyjs.io/)
@@ -63,25 +63,27 @@
       <p><strong>Tech Stack: ReactJS, Typescript, Sass, Axios, Print-JS</strong></p>
       <p>Big game time is lost when there aren't enough duplicate cards in Arkham Horror LCG, a multiplayer campaigning card game. This app finds your deck, formats them to be ready for printing. No more hand-written proxying and more time to play!</p>
     </td>
+
 <!--   linked-image  -->
     <td width="50%" valign="top">
-      <h3 align="center">Proxy Ritual</h3>
+      <h3 align="center">Paw-Five</h3>
       <br/>
-      <a target="_blank" href="https://proxy-ritual.netlify.app">
-          <img src="images/" width="100%" alt="Card Printing App"/>
+      <a target="_blank" href="#">
+          <img src="images/pawfive.gif" width="100%" alt="Dog Training App"/>
       </a>
       <br/>
 <!--    buttons     -->
      <p align="center">
-       <a href="#" target="_blank">
-         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+       <a href="https://github.com/Matt-Chisholm/Paw-Five" target="_blank">
+         <img src="https://img.shields.io/static/v1?label=|&message=Code&color=23555f&style=plastic&logo=github&logo-color=white"/>
        </a>  
-       <a href="https://proxy-ritual.netlify.app" target="_blank">
-         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+       <a href="https://github.com/Matt-Chisholm/Paw-Five" target="_blank">
+         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=heroku&logo-color=white"/>
        </a>
       </p>
 <!--   Summary    -->
-      <p><strong>Fill tech stack and summary</p>
+      <p><strong>Tech Stack: Stack: Express, ReactJS, Wit.ai, Recharts, Figma, Sass, News API, React-Cookie, Axios, Heroku, PosgreSQL</strong></p>
+      <p>PawFive is a specialized training app for dog training, using a lighthearted-theme to track their learning progress, and using a voice recognition AI for innovative training recording.</p>
     </td>
  
   </tr>
@@ -89,43 +91,45 @@
   <tr>
     <!--   linked-image  -->
     <td width="50%" valign="top">
-      <h3 align="center">Proxy Ritual</h3>
+      <h3 align="center">Interview Scheduler</h3>
       <br/>
-      <a target="_blank" href="https://proxy-ritual.netlify.app">
-          <img src="images/" width="100%" alt="Card Printing App"/>
+      <a target="_blank" href="https://github.com/glitjch/scheduler">
+          <img src="images/schedule-interviewer.gif" width="100%" alt="scheduling interviews app"/>
       </a>
       <br/>
 <!--    buttons     -->
      <p align="center">
-       <a href="#" target="_blank">
-         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+       <a href="https://github.com/glitjch/scheduler" target="_blank">
+         <img src="https://img.shields.io/static/v1?label=|&message=Code&color=23555f&style=plastic&logo=github&logo-color=white"/>
        </a>  
-       <a href="https://proxy-ritual.netlify.app" target="_blank">
-         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+       <a href="https://github.com/glitjch/scheduler" target="_blank">
+         <img src="https://img.shields.io/static/v1?label=|&message=Demo&color=cdf998&style=plastic&logo=heroku&logo-color=white"/>
        </a>
       </p>
 <!--   Summary    -->
-      <p><strong>Fill tech stack and summary</p>
+      <p><strong>Tech Stack: ReachJS, Axios, Cypress, Storybook, Jest</strong></p>
+      <p>Designed for busy appointment schedulers, the Scheduler helps experts and novices find their booking routines made easily managed with a few clicks.</p>
     </td>
     <!--   linked-image  -->
     <td width="50%" valign="top">
-      <h3 align="center">Proxy Ritual</h3>
+      <h3 align="center">Goombr</h3>
       <br/>
-      <a target="_blank" href="https://proxy-ritual.netlify.app">
-          <img src="images/" width="100%" alt="Card Printing App"/>
+      <a target="_blank" href="">
+          <img src="images/tweetr.gif" width="100%" alt="Twitter Faking App"/>
       </a>
       <br/>
 <!--    buttons     -->
      <p align="center">
-       <a href="#" target="_blank">
-         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+       <a href="hhttps://github.com/glitjch/tweeter" target="_blank">
+         <img src="https://img.shields.io/static/v1?label=|&message=Code&color=23555f&style=plastic&logo=github&logo-color=white"/>
        </a>  
-       <a href="https://proxy-ritual.netlify.app" target="_blank">
-         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+       <a href="https://goombr-not-tweetr.netlify.app/" target="_blank">
+         <img src="https://img.shields.io/static/v1?label=|&message=Demo&color=cdf998&style=plastic&logo=netlify&logo-color=white"/>
        </a>
       </p>
 <!--   Summary    -->
-      <p><strong>Fill tech stack and summary</p>
+      <p><strong>Tech Stack: Express Js, Node 5.10, Chance, Body-Parser, Jquery</strong></p>
+      <p>Let the world hear your thoughts! Join other users in creating easy snippets of ideas or opinions and browse them through threads. CSS-focused project.</p>
     </td>
   </tr>
 </table>
