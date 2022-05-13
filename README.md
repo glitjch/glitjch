@@ -145,4 +145,4 @@
 <h4 align="center">Here, today is Thursday, May 12, 2022.</h4>
 <p align="center">Currently, the weather is: <b>  7°C, <i>light rain</i></b></br>Sun rises at <b>05:31 AM</b> and sets at <b>08:43 PM</b>.</p>
 </br>
-<p align="center">Weather updates hourly! Last refresh: </p>
+<p align="center">Weather updates hourly! Last refresh: Thursday, May 12, 2022</p>
