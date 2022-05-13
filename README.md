@@ -1,34 +1,31 @@
-
-
-
-I’ve worked in the medical and retail field as an optician for over ten years and have enjoyed knowing and helping a diverse crowd of people take care of themselves. As I became more experienced in the field I felt limited as to how I could contribute to communities and desired challenges that include creative collaborations and product-based projects. I started out experimenting on scratch.io along with Harvard’s CS50 online course, and saw how powerful the ability to code is to creating useful services for other people. During the pandemic, I shifted into caretaking, but also gradually learned coding languages such as javascript and React. I feel empowered to build web applications and I’m looking to join a company like yours with forward thinking, emphasizing on environmental, social, and governance impact.
-
-Ten years in the medical field as an optician, TJ gained insight on personable customer service, listening beyond standard client needs, as people trusted him enough to share their personal passions and challenges. He increasingly realized that helping people is his calling, but his service to others was limited, believing his untapped creative potential could support others so much more. After years of plain medical software applications, countless patient stories that could’ve used solutions by design, TJ took a chance with coding as the outlet to influence change. There was no turning back.
-
-
 <img src="https://imgur.com/tFMphma.png" width="100%">
 
 <p align="center">
  <a href="https://twitter.com/hellotjphan" target="_blank">
    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?logoColor=white&labelColor=blue&color=green&label=Twitter&style=plastic&logo=twitter&logoWidth=40&url=https%3A%2F%2Ftwitter.com%2Fhellotjphan%2Fphoto">
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/tj-phan/" target="_blank">
    <img alt="LinkedIn URL" src="https://img.shields.io/static/v1?&label=LinkedIn&message=+&logo=linkedin&color=pink&labelColor=blue&style=plastic&logoWidth=40">
   </a>
+  <br>
   <a href="https://angel.co/u/tj-phan" target="_blank">
    <img alt="AngelList URL" src="https://img.shields.io/static/v1?&label=AngelList&message=+&logo=angellist&color=purple&labelColor=blue&style=plastic&logoWidth=40">
   </a>
+  <br>
   <a href="https://dev.to/glitjch" target="_blank">
-   <img alt="DEV.to URL" src="https://img.shields.io/static/v1?&label=DEV&message=+&logo=dev.to&color=orange&labelColor=blue&style=plastic&logoWidth=40">
+   <img alt="DEV.to URL" src="https://img.shields.io/static/v1?&label=DEV&message=+&logo=dev.to&color=orange&labelColor=blue&style=plastic&logoWidth=45">
   </a>
+  <br>
   <a href="#" target="_blank">
    <img alt="TJ Phan website URL" src="https://img.shields.io/static/v1?&label=Website&message=+&logo=gatsby&color=yellow&labelColor=blue&style=plastic&logoWidth=40">
   </a>
  </p>
  
 
-<h1 align="center">Hi 👋, I'm TJ Phan !</h1>
-<h3 align="center">A passionate frontend developer from Coquitlam, BC, Canada</h3>
+<h1 align="center">Hi 👋, I'm TJ!</h1>
+<h3 align="center">A passionate fullstack developer from Coquitlam, BC, Canada</h3>
+<h3 align="center">Improving lives and communities through thoughtful technology is my motivation. If we share the same philosophy, let's connect!</h3>
 
 
 - 🔭 I’m currently working on [My Gatsby Portfolio](https://gatsbyportfoliomain14692.gatsbyjs.io/)
@@ -55,15 +52,16 @@ Ten years in the medical field as an optician, TJ gained insight on personable c
       <br/>
 <!--    buttons     -->
      <p align="center">
-       <a href="#" target="_blank">
-         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+       <a href="https://github.com/glitjch/arkhamlcg-image-decker" target="_blank">
+         <img src="https://img.shields.io/static/v1?label=|&message=Code&color=23555f&style=plastic&logo=github&logo-color=white"/>
        </a>  
        <a href="https://proxy-ritual.netlify.app" target="_blank">
-         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+         <img src="https://img.shields.io/static/v1?label=|&message=Demo&color=cdf998&style=plastic&logo=netlify&logo-color=white"/>
        </a>
       </p>
 <!--   Summary    -->
-      <p><strong>Fill tech stack and summary</p>
+      <p><strong>Tech Stack: ReactJS, Typescript, Sass, Axios, Print-JS</strong></p>
+      <p>Big game time is lost when there aren't enough duplicate cards in Arkham Horror LCG, a multiplayer campaigning card game. This app finds your deck, formats them to be ready for printing. No more hand-written proxying and more time to play!</p>
     </td>
 <!--   linked-image  -->
     <td width="50%" valign="top">
