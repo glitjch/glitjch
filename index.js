@@ -17,6 +17,14 @@ let DATA = {
     // timeZoneName: 'short',
     timeZone: 'America/Vancouver',
   }),
+  time: new Date().toLocaleDateString('en-US', {
+    month: 'long',
+    day: 'numeric',
+    hour: 'numeric',
+    minute: 'numeric',
+    timeZoneName: 'short',
+    timeZone: 'America/Vancouver',
+  }),
 };
 
 
