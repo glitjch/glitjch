@@ -4,19 +4,19 @@
  <a href="https://twitter.com/hellotjphan" target="_blank">
    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?logoColor=white&labelColor=blue&color=green&label=Twitter&style=plastic&logo=twitter&logoWidth=40&url=https%3A%2F%2Ftwitter.com%2Fhellotjphan%2Fphoto">
   </a>
-  <br>
+  &nbsp
   <a href="https://www.linkedin.com/in/tj-phan/" target="_blank">
    <img alt="LinkedIn URL" src="https://img.shields.io/static/v1?&label=LinkedIn&message=+&logo=linkedin&color=pink&labelColor=blue&style=plastic&logoWidth=40">
   </a>
-  <br>
+  &nbsp
   <a href="https://angel.co/u/tj-phan" target="_blank">
    <img alt="AngelList URL" src="https://img.shields.io/static/v1?&label=AngelList&message=+&logo=angellist&color=purple&labelColor=blue&style=plastic&logoWidth=40">
   </a>
-  <br>
+  &nbsp
   <a href="https://dev.to/glitjch" target="_blank">
    <img alt="DEV.to URL" src="https://img.shields.io/static/v1?&label=DEV&message=+&logo=dev.to&color=orange&labelColor=blue&style=plastic&logoWidth=45">
   </a>
-  <br>
+  &nbsp
   <a href="#" target="_blank">
    <img alt="TJ Phan website URL" src="https://img.shields.io/static/v1?&label=Website&message=+&logo=gatsby&color=yellow&labelColor=blue&style=plastic&logoWidth=40">
   </a>
