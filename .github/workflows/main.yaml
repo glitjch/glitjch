@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout current repository to main branch
-        uses: actions/checkout@main
+        uses: actions/checkout@v1
       - name: Setup NodeJs 13.x
         uses: actions/setup-node@v1
         with:
@@ -28,6 +28,6 @@ jobs:
       - name: Generate README file
         run: node index.js
       - name: Commit and Push new README.md to the repository
-        uses: mikeal/publish-to-github-action@main
+        uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
