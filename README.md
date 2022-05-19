@@ -62,6 +62,27 @@
       <p><strong>Tech Stack: ReactJS, Express.JS Components CSS, openai API</strong></p>
       <p>Want to land that valuable connection with that boss/star/career crush in the elevator? Open the app, sprinkle a bit about yourself and let the trained ai to creat your personal elevator pitch, fast!</p>
     </td>
+   <td width="50%" valign="top">
+      <!--   linked-image  -->
+      <h3 align="center">Coming soon</h3>
+      <br/>
+      <a target="_blank" href="#">
+        <img src="images/logo.png" width="100%" alt="Next Project"/>
+      </a>
+      <br/>
+      <!--    buttons     -->
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Code&color=informational&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Demo&color=9cf&style=plastic&logo=heroku&logo-color=white"/>
+        </a>
+      </p>
+      <!--   Summary    -->
+      <p><strong>Tech Stack: (Coming soon)</strong></p>
+      <p>What will the next project be?</p>
+    </td>
   </tr>
 
   <tr>
@@ -86,7 +107,6 @@
       <p><strong>Tech Stack: ReactJS, Typescript, Sass, Axios, Print-JS</strong></p>
       <p>Big game time is lost when there aren't enough duplicate cards in Arkham Horror LCG, a multiplayer campaigning card game. This app finds your deck, formats them to be ready for printing. No more hand-written proxying and more time to play!</p>
     </td>
-
     <!--   linked-image  -->
     <td width="50%" valign="top">
       <h3 align="center">Paw-Five</h3>
@@ -167,6 +187,6 @@
 
 </br>
 <h4 align="center">Here, today is Thursday, May 19, 2022.</h4>
-<p align="center">Currently, the weather is: <b>  11°C, <i>overcast clouds</i></b></br>Sun rises at <b>05:22 AM</b> and sets at <b>08:52 PM</b>.</p>
+<p align="center">Currently, the weather is: <b>  12°C, <i>overcast clouds</i></b></br>Sun rises at <b>05:22 AM</b> and sets at <b>08:52 PM</b>.</p>
 </br>
-<p align="center">Last refresh: May 19, 11:49 AM PDT</p>
+<p align="center">Last refresh: May 19, 11:57 AM PDT</p>
