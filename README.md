@@ -66,8 +66,10 @@
       <!--   linked-image  -->
       <h3 align="center">Coming soon</h3>
       <br/>
-      <a target="_blank" href="#">
-        <img src="images/logo.png" width="100%" alt="Next Project"/>
+      <a target="_blank" href="#" >
+       <div align="center">
+        <img src="images/logo.png" width="200px" alt="Next Project"/>
+       </div>
       </a>
       <br/>
       <!--    buttons     -->
