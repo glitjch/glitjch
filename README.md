@@ -42,27 +42,49 @@
 <table bordercolor="#66b2b2">
   
   <tr>
-     <!--   linked-image  -->
     <td width="50%" valign="top">
-     <h3 align="center">Proxy Ritual</h3>
+      <!--   linked-image  -->
+      <h3 align="center">Snappy</h3>
       <br/>
-      <a target="_blank" href="https://proxy-ritual.netlify.app">
-          <img src="images/proxy-ritual.gif" width="100%" alt="Card Printing App"/>
+      <a target="_blank" href="https://snappy-by-glitjch.herokuapp.com/">
+        <img src="images/snappy.gif" width="100%" alt="Elevator Pitch Generator App"/>
       </a>
       <br/>
-<!--    buttons     -->
-     <p align="center">
-       <a href="https://github.com/glitjch/arkhamlcg-image-decker" target="_blank">
-         <img src="https://img.shields.io/static/v1?label=|&message=Code&color=informational&style=plastic&logo=github&logo-color=white"/>
-       </a>  
-       <a href="https://proxy-ritual.netlify.app" target="_blank">
-         <img src="https://img.shields.io/static/v1?label=|&message=Demo&color=9cf&style=plastic&logo=netlify&logo-color=white"/>
-       </a>
+      <!--    buttons     -->
+      <p align="center">
+        <a href="https://github.com/glitjch/snappy" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Code&color=informational&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://snappy-by-glitjch.herokuapp.com/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Demo&color=9cf&style=plastic&logo=heroku&logo-color=white"/>
+        </a>
       </p>
-<!--   Summary    -->
-     <p><strong>Tech Stack: ReactJS, Typescript, Sass, Axios, Print-JS</strong></p>
+      <!--   Summary    -->
+      <p><strong>Tech Stack: ReactJS, Express.JS Components CSS, openai API</strong></p>
+      <p>Want to land that valuable connection with that boss/star/career crush in the elevator? Open the app, sprinkle a bit about yourself and let the trained ai to creat your personal elevator pitch, fast!</p>
+    </td>
+    <td width="50%" valign="top">
+      <!--   linked-image  -->
+      <h3 align="center">Proxy Ritual</h3>
+      <br/>
+      <a target="_blank" href="https://proxy-ritual.netlify.app">
+        <img src="images/proxy-ritual.gif" width="100%" alt="Card Printing App"/>
+      </a>
+      <br/>
+      <!--    buttons     -->
+      <p align="center">
+        <a href="https://github.com/glitjch/arkhamlcg-image-decker" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Code&color=informational&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://proxy-ritual.netlify.app" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Demo&color=9cf&style=plastic&logo=netlify&logo-color=white"/>
+        </a>
+      </p>
+      <!--   Summary    -->
+      <p><strong>Tech Stack: ReactJS, Typescript, Sass, Axios, Print-JS</strong></p>
       <p>Big game time is lost when there aren't enough duplicate cards in Arkham Horror LCG, a multiplayer campaigning card game. This app finds your deck, formats them to be ready for printing. No more hand-written proxying and more time to play!</p>
     </td>
+
     <!--   linked-image  -->
     <td width="50%" valign="top">
       <h3 align="center">Paw-Five</h3>
@@ -142,7 +164,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=glitjch&label=Profile%20views&color=0e75b6&style=flat" alt="glitjch" /> </p>
 
 </br>
-<h4 align="center">Here, today is Friday, May 13, 2022.</h4>
-<p align="center">Currently, the weather is: <b>  10°C, <i>overcast clouds</i></b></br>Sun rises at <b>05:30 AM</b> and sets at <b>08:44 PM</b>.</p>
+<h4 align="center">Here, today is Thursday, May 19, 2022.</h4>
+<p align="center">Currently, the weather is: <b>  11°C, <i>overcast clouds</i></b></br>Sun rises at <b>05:22 AM</b> and sets at <b>08:52 PM</b>.</p>
 </br>
-<p align="center">Last refresh: May 13, 8:46 PM PDT</p>
+<p align="center">Last refresh: May 19, 11:46 AM PDT</p>
