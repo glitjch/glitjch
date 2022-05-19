@@ -40,7 +40,6 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
   <tr>
     <td width="50%" valign="top">
       <!--   linked-image  -->
@@ -63,6 +62,9 @@
       <p><strong>Tech Stack: ReactJS, Express.JS Components CSS, openai API</strong></p>
       <p>Want to land that valuable connection with that boss/star/career crush in the elevator? Open the app, sprinkle a bit about yourself and let the trained ai to creat your personal elevator pitch, fast!</p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <!--   linked-image  -->
       <h3 align="center">Proxy Ritual</h3>
@@ -167,4 +169,4 @@
 <h4 align="center">Here, today is Thursday, May 19, 2022.</h4>
 <p align="center">Currently, the weather is: <b>  11°C, <i>overcast clouds</i></b></br>Sun rises at <b>05:22 AM</b> and sets at <b>08:52 PM</b>.</p>
 </br>
-<p align="center">Last refresh: May 19, 11:46 AM PDT</p>
+<p align="center">Last refresh: May 19, 11:49 AM PDT</p>
